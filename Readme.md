@@ -41,6 +41,6 @@
 
 
 [gmail]: mailto:sats96dergach@gmail.com
-[telegram]: https://t-do.by/Rafael333
+[telegram]: https://t-do.ru/Rafael333
 [linkedin]: https://www.linkedin.com/in/stanislau-dziarhach-6460aa20b/
 [codewars]: https://www.codewars.com/users/Dergacz/published_translations
