@@ -1,7 +1,7 @@
 ## Hello, My name is Stanislau Dziarhach
 <hr>
 
-### I'm junior front-end developer
+### I'm front-end developer
 <hr>
 
 ### Languages and Technologies
