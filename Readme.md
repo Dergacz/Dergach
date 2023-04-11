@@ -36,11 +36,11 @@
 [<img align="left" alt="GMail" width="38px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>][gmail]
 [<img align="left" alt="Telegram" width="38px" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/>][telegram]
 [<img align="left" alt="LinkedIn" width="26px" src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png"/>][linkedin]
-[<img align="left" alt="LinkedIn" width="300px" src="https://www.codewars.com/users/Dergacz/badges/large"/>][codewars]
+[<img align="left" alt="LinkedIn" width="150px" src="https://www.codewars.com/users/rsschool_87b244e540d672af/badges/micro"/>][codewars]
 
 
 
 [gmail]: mailto:sats96dergach@gmail.com
 [telegram]: https://t-do.ru/Rafael333
 [linkedin]: https://www.linkedin.com/in/stanislau-dziarhach-6460aa20b/
-[codewars]: (https://www.codewars.com/users/rsschool_87b244e540d672af)
+[codewars]: https://www.codewars.com/users/rsschool_87b244e540d672af/published_translations
