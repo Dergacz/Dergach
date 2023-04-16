@@ -32,7 +32,7 @@
 <hr>
 
 
-### My Portfolio: https://tranquil-scone-b29eda.netlify.app/
+### <a href="https://tranquil-scone-b29eda.netlify.app/" target="_blank">My Portfolio</a>
 <hr>
 
 ### You can contact me: 
