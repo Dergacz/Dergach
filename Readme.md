@@ -29,7 +29,7 @@ I am Stanislau Dziarhach, an experienced Frontend Developer specializing in crea
 
 
 [gmail]: mailto:sats96dergach@gmail.com
-[telegram]: https://t-do.ru/dergach_0
+[telegram]: https://t.me/o11ool
 [linkedin]: https://www.linkedin.com/in/stanislau-dziarhach-6460aa20b/
 [codewars]: https://www.codewars.com/users/Dergacz/published_translations
 <br>
